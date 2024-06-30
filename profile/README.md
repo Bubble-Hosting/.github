@@ -1,6 +1,2 @@
-<p align="center">
-  <img src="https://github.com/Bubble-Hosting/.github/assets/55755965/c5208eb3-b4cb-45c9-9ce7-1b9c6836f1ca">
-</p>
-
-<h1 align="center">NEXT GENERATION HOSTING FOR AI</h1>
-<h3 align="center"><a href="https://bubblehosting.net/">Visit our website</a></h3>
+<h1 align="center">We have re-branded to 51 Servers.</h1>
+<h3 align="center"><a href="https://bubblehosting.net/](https://github.com/orgs/51-Servers/">Visit our new org!</a></h3>
